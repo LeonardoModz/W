@@ -1,50 +1,50 @@
-# ☣︎ ATOMIC Tool ☣︎
+# ☣︎ ATOMIC TOOL ☣︎
 <img src="screenshots/start.png">
 
 
-## 🕶 ATOMIC Tool is a professional attacking tool that support abnormal options like:
+## 🕶 ATOMIC TOOL É UMA FERRAMENTA DE ATAQUE PROFISSIONAL QUE OFERECe SUPORTE A OPÇÕES ANORMAIS COMO:
 
-- Multi webhook spammer
-- Multi webhook deleter
-- Multi token information scrapper
-- Professional Token Checker
-- Fast Multi Token raider
-- Discord Token Nuker
-# Installation 
+- SPAMMER MULTI WEBHOOK
+- DELETOR MULTI WEBHOOK
+- SCRAPER DE INFORMAÇÕES MULTI TOKEN
+- VERIFICADOR PROFISSIONAL DE TOKEN
+- RAIDER RÁPIDO MULTI TOKEN
+- NUKER DE TOKEN DO DISCORD
+# INSTALAÇÃO ATOMIC NUKER
 
-🔗 Clone the repo by using this link
+🔗 CLONE O REPOSITÓRIO USANDO ESTE LINK
 ```bash
-git clone https://github.com/M-logique/Atomic
+git clone https://github.com/LeonardoModz/W
 ```
 
-♦ Open the project in your teminal
+♦ ABRA O PROJETO NO SEU TERMINAL
 ```bash
 cd Atomic
 ```
 
-⚡ Install Python packages by using pip
+⚡ INSTALAR PACOTES PYTHON USANDO PIP
 ```bash
 pip install -r requirements.txt
 ```
 
-✨ Now Enjoy!
+✨  AGORA APROVEITE!
 ```bash
 python main.py
 ```
 
-# ⚡ Features 
+# ⚡ FUNÇÕES ATOMIC TOOL
 
-## 🔗 Webhook Tools
+## 🔗 WEBHOOK TOOLS
 <img src="screenshots/webhooks.png">
 <br>
 
-## 💊 Token Tools
+## 💊 TOKEN TOOLS
 <img src="screenshots/tokens.png">
 
 <br>
 
 
-**✨ And More!**
+**✨ E MUITO MAIS!**
 
 # ⚠ Disclaimer
-**Using this Tool means violating Discord's Terms of policy, and the owner of this Tool _does not_ take any responsibility for any thing.**
+**USAR ESTA FERRAMENTA SIGNIFICA VIOLAR OS TERMOS DE POLÍTICA DO DISCORD, E O PROPRIETÁRIO DESTA FERRAMENTA _NÃO_ ASSUME QUALQUER RESPONSABILIDADE POR NADA.**
